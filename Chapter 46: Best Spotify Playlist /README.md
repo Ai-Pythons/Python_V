@@ -26,3 +26,4 @@ python main.py
 --
 example-input: 2023-10-10
 ```
+![Alt text](img/2023-12-04_13-22.png)
